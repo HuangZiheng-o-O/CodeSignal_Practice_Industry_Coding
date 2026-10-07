@@ -1,0 +1,75 @@
+[submodule "EricZheng0404__LibreSignal"]
+	path = EricZheng0404__LibreSignal
+	url = https://github.com/EricZheng0404/LibreSignal.git
+[submodule "ItsEricSun__codesignal-industry-coding-practice"]
+	path = ItsEricSun__codesignal-industry-coding-practice
+	url = https://github.com/ItsEricSun/codesignal-industry-coding-practice.git
+[submodule "Kartikbokadia23__parking-lot-system-design"]
+	path = Kartikbokadia23__parking-lot-system-design
+	url = https://github.com/Kartikbokadia23/parking-lot-system-design.git
+[submodule "MayukhSobo__in-memory-db"]
+	path = MayukhSobo__in-memory-db
+	url = https://github.com/MayukhSobo/in-memory-db.git
+[submodule "PaWeRe__codesignal_oop_python"]
+	path = PaWeRe__codesignal_oop_python
+	url = https://github.com/PaWeRe/codesignal_oop_python.git
+[submodule "PaulLockett__CodeSignal_Practice_Industry_Coding_Framework"]
+	path = PaulLockett__CodeSignal_Practice_Industry_Coding_Framework
+	url = https://github.com/PaulLockett/CodeSignal_Practice_Industry_Coding_Framework.git
+[submodule "Schuture__Anthropic-Interview-Notes"]
+	path = Schuture__Anthropic-Interview-Notes
+	url = https://github.com/Schuture/Anthropic-Interview-Notes.git
+[submodule "Zaloog__kanban-tui"]
+	path = Zaloog__kanban-tui
+	url = https://github.com/Zaloog/kanban-tui.git
+[submodule "carlo-leonardo-attubato__practice_repo"]
+	path = carlo-leonardo-attubato__practice_repo
+	url = https://github.com/carlo-leonardo-attubato/practice_repo.git
+[submodule "dinaricrypto__interview-ttkv"]
+	path = dinaricrypto__interview-ttkv
+	url = https://github.com/dinaricrypto/interview-ttkv.git
+[submodule "doocs__leetcode"]
+	path = doocs__leetcode
+	url = https://github.com/doocs/leetcode.git
+[submodule "elijaharhinful__event-store"]
+	path = elijaharhinful__event-store
+	url = https://github.com/elijaharhinful/event-store.git
+[submodule "gist__VeylanSolmira__fc4066ad16ba8bf9223fde45f4d12284"]
+	path = gist__VeylanSolmira__fc4066ad16ba8bf9223fde45f4d12284
+	url = https://gist.github.com/VeylanSolmira/fc4066ad16ba8bf9223fde45f4d12284.git
+[submodule "gist__alik604__5a9e41ea9bdbb248bd5b35a8fcd810bf"]
+	path = gist__alik604__5a9e41ea9bdbb248bd5b35a8fcd810bf
+	url = https://gist.github.com/alik604/5a9e41ea9bdbb248bd5b35a8fcd810bf.git
+[submodule "gist__nito-Q__3b0e09676de3b1176f85e2db3d09a9ad"]
+	path = gist__nito-Q__3b0e09676de3b1176f85e2db3d09a9ad
+	url = https://gist.github.com/nito-Q/3b0e09676de3b1176f85e2db3d09a9ad.git
+[submodule "google__jimfs"]
+	path = google__jimfs
+	url = https://github.com/google/jimfs.git
+[submodule "idlefor__TTDRecipeManagement"]
+	path = idlefor__TTDRecipeManagement
+	url = https://github.com/idlefor/TTDRecipeManagement.git
+[submodule "llorrac1__python-ttl-cache"]
+	path = llorrac1__python-ttl-cache
+	url = https://github.com/llorrac1/python-ttl-cache.git
+[submodule "ombharatiya__FAANG-Coding-Interview-Questions"]
+	path = ombharatiya__FAANG-Coding-Interview-Questions
+	url = https://github.com/ombharatiya/FAANG-Coding-Interview-Questions.git
+[submodule "pankaj139__lld-solutions"]
+	path = pankaj139__lld-solutions
+	url = https://github.com/pankaj139/lld-solutions.git
+[submodule "ravin-d-27__OpenQueue"]
+	path = ravin-d-27__OpenQueue
+	url = https://github.com/ravin-d-27/OpenQueue.git
+[submodule "saltyjared__banking-system"]
+	path = saltyjared__banking-system
+	url = https://github.com/saltyjared/banking-system.git
+[submodule "spartypkp__open-gauntlet"]
+	path = spartypkp__open-gauntlet
+	url = https://github.com/spartypkp/open-gauntlet.git
+[submodule "streamich__memfs"]
+	path = streamich__memfs
+	url = https://github.com/streamich/memfs.git
+[submodule "zcancio__mocksignal"]
+	path = zcancio__mocksignal
+	url = https://github.com/zcancio/mocksignal.git
